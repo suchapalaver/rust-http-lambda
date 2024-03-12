@@ -1,7 +1,5 @@
 # Rust HTTP Lambda
 
-`rust-http-lambda` is for testing response times of lambda running on Rust.
-
 ## Building and Deploying
 
 The easiest way to start writing Lambda functions with Rust is by using [Cargo Lambda](https://www.cargo-lambda.info/),
